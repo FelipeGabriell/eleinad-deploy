@@ -2296,12 +2296,12 @@ Default Tab Style
 }
 
 .logo img {
-  max-width: 77px;
+  max-width: 350px;
 }
 
 @media(max-width: 980px) {
   .logo img {
-    max-width: 50px;
+    max-width: 200px;
   }
 }
 
